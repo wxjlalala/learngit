@@ -1,2 +1,3 @@
-This is a learn gittxt.
-This is a learn gittxtsecond.
+This is a learn git txt.
+This is a learn git txt second.
+This is a learn git txt third.
